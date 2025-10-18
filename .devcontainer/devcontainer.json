@@ -1,6 +1,6 @@
 {
 	"name": "example devcontainers",
-	"image": "mcr.microsoft.com/devcontainers/python:3.12",
+	"image": "mcr.microsoft.com/devcontainers/python:3.14",
 
 	"features": {
 		"ghcr.io/stuartleeks/dev-container-features/shell-history:0.0.3": {}
